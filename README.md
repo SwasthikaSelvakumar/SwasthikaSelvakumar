@@ -1,4 +1,4 @@
-# ✨ Swasthika S — Ethical AI Explorer  
+# Swasthika S 
 
 Hello! I'm **Swasthika S**, an **AI/ML enthusiast** passionate about designing **human-centric, transparent, and impactful AI solutions**.  
 I focus on **Machine Learning, Computer Vision, and Responsible AI**, with strong interests in applications across **Healthcare, FinTech, and Governance**.  
@@ -44,6 +44,3 @@ I focus on **Machine Learning, Computer Vision, and Responsible AI**, with stron
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Swasthika__S?theme=dark&font=Karma&ext=contest)  
 
 ---
-
-## 🏅 GitHub Trophies  
-[![trophy](https://github-profile-trophy.vercel.app/?username=SwasthikaS&theme=gruvbox&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
