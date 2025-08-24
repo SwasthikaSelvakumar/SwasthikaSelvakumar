@@ -25,7 +25,7 @@ I focus on **Machine Learning, Computer Vision, and Responsible AI**, with stron
 ---
 
 ## 💻 Tech Stack  
-- **Languages**: Python, Java, C++  
+- **Languages**: Python, Java, C++, C
 - **ML/AI**: TensorFlow, PyTorch, Scikit-Learn, OpenCV  
 - **Databases**: MySQL, PostgreSQL, SQLite  
 - **Frameworks**: Flask, Django  
