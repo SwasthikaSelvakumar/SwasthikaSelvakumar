@@ -8,6 +8,7 @@ I focus on **Machine Learning, Computer Vision, and Responsible AI**, with stron
 ## 🔬 Featured Project  
 - **[Public Pulse](https://github.com/ShreyaVijaykumar/PublicPulse)** – Research initiative on building AI models that prioritize **fairness, accountability, and trust**.
 - **[Plant Disease Detection](https://github.com/SwasthikaSelvakumar/Plant-Disease-Detection)** -AI-powered decision-support system that helps farmers and agricultural managers schedule crop management actions such as **disease prevention**
+- **[Automatic Parking Space detection](https://github.com/SwasthikaSelvakumar/Automatic-Parking-space-detection)** - Computer Vision based finding **free Parking Slots**
   
 
 *(More projects coming soon...)*  
