@@ -18,7 +18,7 @@ I focus on **Machine Learning, Computer Vision, and Responsible AI**, with stron
 ---
 
 ## 🏆 Highlights  
-- IEEE Ideathon **Contributor/Winner**   
+- IEEE Ideathon **Winner**   
 - Deep interest in **Federated Learning** and **Ethical AI**  
 - Exploring **AI for Social Good** and **real-world scalable ML systems**  
 
