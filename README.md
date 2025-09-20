@@ -1,7 +1,7 @@
 # Swasthika S 
 
 Hello! I'm **Swasthika S**, an **AI/ML enthusiast** passionate about designing **human-centric, transparent, and impactful AI solutions**.  
-I focus on **Machine Learning, Computer Vision, and Responsible AI**, with strong interests in applications across **Healthcare, FinTech, and Governance**.  
+I focus on **Machine Learning, Computer Vision, and Responsible AI**, with strong interests in applications across **Healthcare, SAP, and Governance**.  
 
 ---
 
