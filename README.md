@@ -33,7 +33,7 @@ I focus on **Machine Learning, Computer Vision, and Responsible AI**, with stron
 ---
 
 ## 🌱 Currently Exploring  
-- AI in **Healthcare, Judiciary, and FinTech**  
+- AI in **Healthcare, Judiciary, and SAP**  
 - **Federated Learning** & Privacy-Preserving ML  
 - **Open Source Contributions** and Big Tech career pathways
 - **Computer Vision** in **Animation**
