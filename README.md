@@ -11,6 +11,7 @@ I focus on **Machine Learning, Computer Vision, and Responsible AI**, with stron
 - **[Automatic Parking Space detection](https://github.com/SwasthikaSelvakumar/Automatic-Parking-space-detection)** - Computer Vision based finding **free Parking Slots**
 - **[Federated Learning Based Domestic Violence Detection](https://github.com/SwasthikaSelvakumar/FEDERATED-LEARNING-BASED-DOMESTIC-VIOLENCE-DETECTION)** -An AI-powered system for detecting and classifying the severity of **domestic violence audio using MFCC features, federated learning, and Flask**
 - **[Child Mental Health](https://github.com/SwasthikaSelvakumar/CHILD_MENTAL-HEALTH-)** - EmoBuddy is a child-friendly **emotional support** web app built with Flask. It provides predefined empathetic responses in English to help child **express and manage feelings**.
+- **[Malicious-Web_Requests-](https://github.com/SwasthikaSelvakumar/Malicious-Web_Requests-)**- A production-minded hybrid system for **detecting malicious web requests** using a combination of Deterministic Finite Automata (DFA), Regex Signatures, and a Lightweight Neural Network (ANN)
   
 
 *(More projects coming soon...)*  
