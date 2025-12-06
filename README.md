@@ -35,7 +35,7 @@ I focus on **Machine Learning, Computer Vision, and Responsible AI**, with stron
 
 ---
 
-## ✉️ Code Stories (Blogs)
+## 📜 The Debugging Diary (Blogs)
 - **[Seeing Through AI’s Eyes :How Grad-CAM Turns Lung Disease Detection into Something Trustable](https://medium.com/@swasthika.selvakumar2005/seeing-through-ais-eyes-how-grad-cam-turns-lung-disease-detection-into-something-trustable-029c5218a2c1)**
 
 ---
