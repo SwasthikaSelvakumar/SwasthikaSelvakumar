@@ -35,6 +35,9 @@ I focus on **Machine Learning, Computer Vision, and Responsible AI**, with stron
 
 ---
 
+## ✉️ Code Stories (Blogs)
+- **[Seeing Through AI’s Eyes :How Grad-CAM Turns Lung Disease Detection into Something Trustable](https://medium.com/@swasthika.selvakumar2005/seeing-through-ais-eyes-how-grad-cam-turns-lung-disease-detection-into-something-trustable-029c5218a2c1)**
+
 ## 🌱 Currently Exploring  
 - AI in **Healthcare, Judiciary, and SAP**  
 - **Federated Learning** & Privacy-Preserving ML  
@@ -45,8 +48,9 @@ I focus on **Machine Learning, Computer Vision, and Responsible AI**, with stron
 ---
 
 ## 🔗 Connect with Me  
-- [LinkedIn](https://www.linkedin.com/in/swasthika-selvakumar-708440289/)  
-- [LeetCode](https://leetcode.com/u/Swasthika__S/)  
+- [LinkedIn](https://www.linkedin.com/in/swasthika-selvakumar-708440289/)
+- [LeetCode](https://leetcode.com/u/Swasthika__S/)
+- [Medium](https://medium.com/@swasthika.selvakumar2005)
 
 ---
 
