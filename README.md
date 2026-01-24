@@ -13,6 +13,7 @@ I focus on **Machine Learning, Computer Vision, and Responsible AI**, with stron
 - **[Child Mental Health](https://github.com/SwasthikaSelvakumar/CHILD_MENTAL-HEALTH-)** - EmoBuddy is a child-friendly **emotional support** web app built with Flask. It provides predefined empathetic responses in English to help child **express and manage feelings**.
 - **[Malicious-Web_Requests-](https://github.com/SwasthikaSelvakumar/Malicious-Web_Requests-)**- A production-minded hybrid system for **detecting malicious web requests** using a combination of Deterministic Finite Automata (DFA), Regex Signatures, and a Lightweight Neural Network (ANN)
 - **[Continual Learning for Chest X-Ray Disease Classification](https://github.com/SwasthikaSelvakumar/Continual-Learning-for-Chest-X-ray-Disease-Classification)** - A continual learning framework for chest X-ray disease classification using **ResNet18, Elastic Weight Consolidation (EWC), and Grad-CAM**. The system retains prior knowledge across tasks like TB and COVID-19 detection while ensuring interpretability and reliability in medical AI.
+- **[Emotion-Detection-with-REDIT](https://github.com/SwasthikaSelvakumar/Emotion-Detection-with-REDIT)** - An AI-powered mental health analysis system that detects Anxiety and ADHD from text-based TF-IDF features using machine learning. The project combines **Random Forest classification, SHAP-based explainability, multilingual emotional support messaging, and temporal mood trend visualization** to bridge the gap between prediction and real-world mental health intervention.
 
   
 
